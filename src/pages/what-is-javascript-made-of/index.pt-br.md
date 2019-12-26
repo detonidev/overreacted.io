@@ -4,7 +4,7 @@ date: '2019-12-20'
 spoiler: Desmistificando conceitos do JavaScript.
 ---
 
-Durante os meus primeiros anos usando JavaScript eu me sentia uma fraude. Mesmo que eu já conseguia construir sites usando frameworks, algo estava faltando. Eu temia entrevistas de emprego de JavaScript por não ter uma base solida dos fundamentos.
+Durante os meus primeiros anos usando JavaScript eu me sentia uma fraude. Mesmo que eu já conseguia construir sites usando frameworks, algo estava faltando. Eu temia entrevistas de emprego de JavaScript por não ter uma base sólida dos fundamentos.
 
 Com o passar dos anos formei um modelo mental de JavaScript que me deu confiança. Neste post irei compartilhar uma versão **bem resumida** disto. Está estruturado como um glossário, com cada tópico contendo algumas sentenças.
 
